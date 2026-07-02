@@ -19,3 +19,10 @@ A Python terminal-based math quiz game.
 - 🎲 Mixed Question Mode
 - 📊 Difficulty Levels
 - 🎯 Custom Number of Questions
+  ## 🚀 How to Run
+1. Install Python.
+2. Download the project.
+3. Open the terminal.
+4. Run: python quizmaster.py
+## Author 
+Hargun Kaur
